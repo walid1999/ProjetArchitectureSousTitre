@@ -1,0 +1,11 @@
+Projet c#
+20/11/2020
+
+Groupe: 
+- Ben khelfallah Walid
+- Turam-ullien Elodie
+
+
+Instructions :
+
+- Mettre le fichier srt et la video sur le bureau pour que le programme fonctionne 
