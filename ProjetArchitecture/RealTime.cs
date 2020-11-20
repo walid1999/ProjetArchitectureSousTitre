@@ -15,7 +15,7 @@ namespace ProjetArchitecture
 
         }
 
-
+        // fonction qui affiche un chronometre 
         public async Task realTime()
         {
             await Task.Run(

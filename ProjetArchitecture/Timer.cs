@@ -29,7 +29,7 @@ namespace ProjetArchitecture
             return new TimeSpan(0, Int32.Parse(splitMinuteur[0]), Int32.Parse(splitMinuteur[1]), Int32.Parse(splitMinuteur[2]), Int32.Parse(splitMinuteur[3]));
         }
 
-
+        //analyse le temps où le sous titre dois etre affiché puis enlevé et qui seront stocké dans les variables Start et End
         public void ParseTime(string minuteur)
         {
             Regex r = new Regex(@"\d{2}:\d{2}:\d{2},\d{3} ?--> ?\d{2}:\d{2}:\d{2},\d{3}");
