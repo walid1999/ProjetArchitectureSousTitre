@@ -1,0 +1,7 @@
+C:\Users\Walid\Downloads\ProjetArchitecture\ProjetArchitecture\bin\Debug\ProjetArchitecture.exe.config
+C:\Users\Walid\Downloads\ProjetArchitecture\ProjetArchitecture\bin\Debug\ProjetArchitecture.exe
+C:\Users\Walid\Downloads\ProjetArchitecture\ProjetArchitecture\bin\Debug\ProjetArchitecture.pdb
+C:\Users\Walid\Downloads\ProjetArchitecture\ProjetArchitecture\obj\Debug\ProjetArchitecture.csprojAssemblyReference.cache
+C:\Users\Walid\Downloads\ProjetArchitecture\ProjetArchitecture\obj\Debug\ProjetArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Downloads\ProjetArchitecture\ProjetArchitecture\obj\Debug\ProjetArchitecture.exe
+C:\Users\Walid\Downloads\ProjetArchitecture\ProjetArchitecture\obj\Debug\ProjetArchitecture.pdb
